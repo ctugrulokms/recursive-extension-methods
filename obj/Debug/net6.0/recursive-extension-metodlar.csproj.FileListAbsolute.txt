@@ -1,0 +1,15 @@
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/bin/Debug/net6.0/recursive-extension-metodlar
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/bin/Debug/net6.0/recursive-extension-metodlar.deps.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/bin/Debug/net6.0/recursive-extension-metodlar.runtimeconfig.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/bin/Debug/net6.0/recursive-extension-metodlar.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/bin/Debug/net6.0/ref/recursive-extension-metodlar.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/bin/Debug/net6.0/recursive-extension-metodlar.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/obj/Debug/net6.0/recursive-extension-metodlar.csproj.AssemblyReference.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/obj/Debug/net6.0/recursive-extension-metodlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/obj/Debug/net6.0/recursive-extension-metodlar.AssemblyInfoInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/obj/Debug/net6.0/recursive-extension-metodlar.AssemblyInfo.cs
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/obj/Debug/net6.0/recursive-extension-metodlar.csproj.CoreCompileInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/obj/Debug/net6.0/recursive-extension-metodlar.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/obj/Debug/net6.0/ref/recursive-extension-metodlar.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/obj/Debug/net6.0/recursive-extension-metodlar.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/recursive-extension-metodlar/obj/Debug/net6.0/recursive-extension-metodlar.genruntimeconfig.cache
